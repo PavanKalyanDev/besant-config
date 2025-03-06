@@ -1,29 +1,17 @@
-besant:
-  institute: "Besant Technologies"
-  location: "Marathahalli"
-  courses:
-    - name: "Java Full Stack"
-      fee: "₹25,000"
-      duration: "3 months"
-      timings: 
-        weekday: "10 AM - 12 PM"
-        weekend: "2 PM - 5 PM"
+location: "Marathahalli"
+courses:
+  - name: "Java Full Stack"
+    fee: "₹25,000"
+    duration: "3 months"
+    timings:
+      weekday: "10 AM - 12 PM"
+      weekend: "2 PM - 5 PM"
 
-    - name: "Python with Django"
-      fee: "₹20,000"
-      duration: "2.5 months"
-      timings:
-        weekday: "11 AM - 1 PM"
-        weekend: "3 PM - 6 PM"
+  - name: "Python with Django"
+    fee: "₹20,000"
+    duration: "2.5 months"
+    timings:
+      weekday: "11 AM - 1 PM"
+      weekend: "3 PM - 6 PM"
 
-    - name: "AWS Cloud Computing"
-      fee: "₹30,000"
-      duration: "3 months"
-      timings:
-        weekday: "9 AM - 11 AM"
-        weekend: "4 PM - 7 PM"
-
-  contact:
-    phone: "+91 98765 43210"
-    email: "info@besantmarathahalli.com"
 
